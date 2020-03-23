@@ -1,3 +1,7 @@
-# day-one-lab-twoGit working
-\n\n some more text
-\n another change
+# day-one-lab-two - Git working
+
+some more text
+
+*another* **change**
+
+## heading 2
